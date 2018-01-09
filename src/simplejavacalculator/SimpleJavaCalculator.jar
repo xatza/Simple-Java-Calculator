@@ -1,0 +1,1 @@
+jar cmvf ../manifest.mf ../SimpleJavaCalculator.jar simplejavacalculator/*.clas
